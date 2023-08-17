@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #1A2D04;
+    color: white;
+}
+.cabecalho-imagem {
+  width:30%;
+  height:20%
+  
+}
+.cabecalho {
+    background-color: #21310F;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.imagem-principal{
+   width: 25%;
+}
+.fruta-imagem{
+    width: 25%;
+  
+}
+.fruta{
+    background-image: linear-gradient(#8ED144,#031A20);
+     color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+  
+}
+.fruta-div-conteudo{
+    width: 35%;
+  
+}
+.fruta-titulo{
+    padding: 24px 0;
+}
+  .rodape{
+    background-color: #629065;
+   
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 12px 0;
+
+}
